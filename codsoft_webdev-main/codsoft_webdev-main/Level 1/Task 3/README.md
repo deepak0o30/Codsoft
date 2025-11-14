@@ -23,7 +23,7 @@ A responsive, browser-based calculator built using *HTML, **CSS, and **JavaScrip
 ## 🖥 Demo
 🔗 *Live Project:* [CodSoft Calculator](https://codsoft-webdev-xxel.vercel.app/)
 
-📂 *Repository:* [GitHub CodSoft_WebDev](https://github.com/jashwanth31779/codsoft_webdev)
+📂 *Repository:* [GitHub CodSoft_WebDev](https://github.com/deepak0o30/Codsoft)
 
 ---
 
